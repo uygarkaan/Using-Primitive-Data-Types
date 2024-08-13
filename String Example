@@ -1,0 +1,12 @@
+    class stringornek {
+
+                                public static void main(String[] args) {
+
+    String mesaj = "Gracias Java!";
+
+                                System.out.println(mesaj.length());
+
+    System.out.println("Mesajın ilk karakteri: " + mesaj.charAt(0));
+
+    }
+}
