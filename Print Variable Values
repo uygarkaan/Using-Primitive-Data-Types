@@ -2,23 +2,37 @@ public class Main {
     public static void main(String[] args) {
 
                             byte b = 1;
+
     short s= 2;
+
                              int i = 3;
+
     long l = 4;
+
                             float f= 5;
+
     double d = 6;
+
                             char c = 'V';
+
     boolean bool = false;
 
 
 
                             System.out.println("byte: " + b);
+
     System.out.println("short: " + s);
+
                             System.out.println("int: " + i);
+
     System.out.println("long: " + l);
+
                             System.out.println("float: " + f);
+
     System.out.println("double: " + d);
+
                             System.out.println("char: " + c);
+
     System.out.println("bool: " + bool);
 
 
